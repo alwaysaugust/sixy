@@ -1,0 +1,93 @@
+<?php
+    // override default attributes with user attributes
+    //dynamic name
+    $title = $args['title'] ?? '';
+  
+  "SELECT * FROM $table_name where location5_name like '%".$title."%'"
+  
+    // $table_name = 'wp_wpl_properties';
+    // $results = $wpdb->get_results(
+    //     // "SELECT id,add_date,price FROM $table_name where location4_name like '%Toronto%' limit 1"
+    //     "SELECT * FROM $table_name where location4_name like '%".$title."%'"
+    // );
+    //$community_id = isset($this->wpl_properties['current']['materials']['field_3013']['value']);
+
+?>
+<style>
+	span.count-descripts {
+		font-size: 12px;
+	    font-weight: 600;
+	    font-family: 'Inter';
+	    line-height: 0.12;
+	    color: #63717D;
+	}
+	span.nbh-bold {
+	    font-size: 18px;
+	    font-family: 'Inter';
+	    font-weight: 600;
+	    line-height: 1.768;
+	    color: #191919;
+	}
+	.nbh-counter-main{
+		margin-bottom: 20px;
+	}
+	.neighborMainBox {
+    border: 1px solid #EBEBEB;
+	}
+		.nbh-counter-main .neighborBox {
+	    padding: 20px;
+	    border-bottom: 1px solid #EBEBEB;
+	}
+	.nbh-counter-main .neighborBox:last-child {
+	    border-bottom: 0;
+	}
+	.neighborBoxTitle {
+	    color: #191919;
+	    font-size: 14px;
+	    font-weight: 600;
+	    font-family: 'Inter';
+	    margin-bottom: 20px;
+	}
+	.fusion-fullwidth.fullwidth-box.fusion-builder-row-2.fusion-flex-container.banner-neighbourhoods.nonhundred-percent-fullwidth.non-hundred-percent-height-scrolling {
+      /*display: none;*/
+    }
+    span.neighbourhood-trends.fusion-responsive-typography-calculated {
+        opacity: 1;
+        color: #191919;
+        font-family: "Inter";
+        font-size: 18px;
+        font-weight: 700;
+        font-style: normal;
+        letter-spacing: -0.18px;
+        text-align: left;
+        position: relative;
+    }
+    section.neighboor {
+        padding-top: 35px;
+        padding-bottom: 18px;
+    }
+    .neighbor-brtag {
+        padding-top: 10px;
+    }
+    .title-heading-left.fusion-responsive-typography-calculated {
+        position: relative;
+        right: 11px !important;
+    }
+    span.inner-muted {
+        font-weight: 100;
+    }
+    .block-hp-featured .wpl_property_listing_container .grid_box .wpl_prp_listing_icon_box>div span {
+        margin-left: 0px;
+        font-size: 14px !important;
+        line-height: 1.6em !important;
+    }
+    .col-12.col-md-4.nbh-counter-main.pad-left {
+        padding-left: 0;
+    }
+    .col-12.col-md-4.nbh-counter-main.pad-right {
+        padding-right: 0;
+    }
+</style>
+<div class="neighbor-brtag">&nbsp;</div>
+<span class="neighbourhood-trends fusion-responsive-typography-calculated" id="community-page" style="">Neighbourhood Trends</span>
+<br>

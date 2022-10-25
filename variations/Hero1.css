@@ -1,0 +1,180 @@
+/**HERO1**/
+
+/*Search-Box*/
+
+.block-hp-featured {
+    padding-top: 1px !important;
+}
+
+.block-hp-search {
+    position: absolute;
+    width: 1920px;
+    left: 0px;
+    top: -98px;
+    background: #f3f3f3;
+    height: 100px;
+}
+
+#wpl_default_search_7{
+	    background: #f3f3f3;
+}
+    
+.block-hp .wpl_search_from_box .wpl_search_from_box_top {
+    margin: auto;
+    padding: 10px;
+    padding-top: 12px;
+    border-radius: 0px !important;
+    max-width: 1080px;
+    width: 100%; 
+}
+
+.block-hp .wpl_search_from_box .wpl_search_from_box_top,
+.block-hp #wpl_searchwidget_7{
+    background:#f1f1f1;
+}
+
+.block-hp #wpl_searchwidget_7{
+    height:100px;
+    margin-top: 258px;
+    border:none !important;
+}
+
+.search-home{
+    border-radius: 0px;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+.block-hp .wpl_search_widget_location_level_container::before, .wpl_search_field_container.wpl_search_field_property_types::before, .wpl_search_field_container.wpl_search_field_price::before, #sf7_tmin_bedrooms_chosen::before, #sf7_tmin_bathrooms_chosen::before, #sf19_tmin_bedrooms_chosen::before, #sf19_tmin_bathrooms_chosen::before {
+    margin-top: -12px !important;
+}
+
+.block-hp .wpl_search_from_box .wpl_search_from_box_top .wpl_search_field_container:not(.radiussearch) {
+    margin-top: 14px;
+}
+
+.block-hp .wpl_search_from_box .search_submit_box:after {
+    line-height: 2.7em !important;
+}
+
+.banner-homepage {
+    margin-top: 100px !important;
+}
+
+.block-hp-featured{
+    padding-top: 80px;
+}
+
+.block-hp #wpl_searchwidget_7 input {
+    height: 38px;
+    border-right: 2px solid #e2e2e2 !important;
+}
+
+.block-hp .wpl_search_from_box .wpl_search_field_container .chosen-container .chosen-single,
+.block-hp input.wpl_search_widget_location_textsearch{
+    background: #fff !important;
+    border:2px solid #e2e2e2 !important;
+    border-radius:5px;
+    height: 38px;
+}
+
+.block-hp-search .wpl_search_from_box .wpl_search_field_container .chosen-container .chosen-single>span {
+    line-height: 44px !important;
+}
+
+.block-hp-search .wpl_search_from_box .wpl_search_field_container .chosen-container .chosen-single div b {
+    line-height: 50px !important;
+}
+
+.block-hp .wpl_search_from_box .wpl_search_field_container, .wpl_search_from_box .wpl_dashboard_links_container {
+    margin: 0 -14px;
+}
+
+.block-hp-search .wpl_search_from_box .wpl_search_field_container.wpl_search_field_container_41 {
+    margin-right: 32px !important;
+    width: 270px !important;
+}
+
+input#wpl_search_widget_submit7.wpl_search_widget_submit {
+    border-right: none !important;
+    height: 38px;
+    margin-top: 0px !important;
+}
+
+a.button-bannercta-var1{
+    background:#fff !important;
+    float:left;
+    margin-top:20px;
+}
+
+.block-hp-search .wpl_search_from_box .search_submit_box{
+    height:43px;
+    margin-top: 5px !important;
+}
+
+.block-hp-search input#wpl_search_widget_submit7.wpl_search_widget_submit{
+    height:43px;
+    border: 2px solid #000 !important;
+    border-radius: 5px;
+}
+
+.wpl_search_from_box .search_submit_box:after{
+    line-height:3.2em !important;
+}
+
+a:hover.button-bannercta-var1{
+    background:#191919 !important;
+}
+
+.button-bannercta-var1 span.fusion-button-text{
+    color:#191919;
+}
+
+.banner-homepage {
+    height: 410px;
+    margin-top: 97px !important;
+    /*background:none !important;*/
+}
+
+.banner-messaging{
+    margin-top: -50px !important;
+}
+
+.block-hp-search .wpl_search_from_box .wpl_search_field_container .chosen-container .chosen-single,
+.block-hp-search .wpl_search_widget_location_textsearch{
+    background:#fff !important;
+    border:2px solid #e2e2e2 !important;
+    border-radius:5px !important;
+    margin-right:38px !important;
+}
+
+input.wpl_search_widget_location_textsearch{
+	line-height:55px !important;
+}
+    
+.block-hp-search .wpl_search_from_box_top{
+    background:#f3f3f3 !important;
+    padding-top:33px;
+    border:none !important;
+}
+
+.block-hp-search .wpl_search_widget_location_level_container::before{
+	margin-top:-12px !important;
+}
+
+.block-hp-search #wpl_searchwidget_7 input, a.chosen-single{
+    border-right: 2px solid #e2e2e2 !important;
+}
+
+.block-hp-search .wpl-search-float{
+	border:none;
+}
+
+.banner-button{
+    width: 100%;
+    margin-top: -50px;
+}
+
+.prop_grid {
+    margin-top: -20px;
+}

@@ -1,0 +1,22 @@
+/**HEADER1**/
+
+.fusion-tb-header{
+    height:120px;
+    background-color:#fff !important;
+}
+
+.fusion-tb-header .primary-header{
+    border-bottom:1px solid #f3f3f3 !important;
+    height: 65px;
+}
+
+.header-contact-wrapper {
+    float: right;
+    position: absolute;
+    right: 315px;
+    top: 62px;
+}
+
+.header-address{
+    display:inline-block;
+}

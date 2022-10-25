@@ -1,0 +1,26 @@
+/**GALLERY2**/
+
+.wpl_gallery_container {
+    background: #fff !important;
+}
+
+.bx-viewport {
+    height: 190px !important;
+}
+
+.bxslider li img {
+    height: 190px !important;
+}
+
+.wpl_property_show_default .bx-controls-direction a.bx-prev{
+    border-radius: 0px 5px 5px 0px !important;
+}
+
+.wpl_property_show_default .bx-controls-direction a.bx-next{
+    border-radius: 5px 0px 0px 5px !important;
+}
+
+.block-property .wpl_gallery_container {
+    margin-left: -50px;
+    margin-right: 370px;
+}

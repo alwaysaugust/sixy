@@ -1,0 +1,215 @@
+/**HERO3**/
+
+/*Search-Box*/
+
+.wpl_search_from_box.wpl_search_kind0 [id*="_search_field_container_9"] .chosen-container,
+.wpl_search_from_box.wpl_search_kind0 [id*="_search_field_container_8"] .chosen-container,
+.wpl_search_from_box.wpl_search_kind0 [id*="_search_field_container_6"] .chosen-container,
+.wpl_search_from_box.wpl_search_kind0 [id*="_search_field_container_3"] .chosen-container {
+    visibility: hidden;
+    display:none !important;
+    background:none !important;
+}
+
+.block-hp-featured {
+    padding-top: 1px !important;
+}
+
+.block-hp-search {
+    position: absolute;
+    width: 1920px;
+    left: 0px;
+    margin-top: -220px !important;
+    background: none;
+}
+
+.wpl_search_from_box .wpl_search_from_box_top {
+    margin: auto;
+    padding: 10px;
+    padding-top: 12px;
+    border-radius: 0px !important;
+    max-width: 1080px;
+    width: 100%;
+    
+}
+
+.wpl_search_from_box .wpl_search_from_box_top,
+#wpl_searchwidget_7{
+    background:#f1f1f1;
+}
+
+.block-hp-search #wpl_searchwidget_7{
+    height:100px;
+    margin-top: 0px;
+    background: none;
+}
+
+#sf7_advancedlocationtextsearch input{
+    color:#f00 !important;
+}
+
+.block-hp #wpl_searchwidget_7 input {
+        font-family: var(--primary-font);
+}
+
+.wpl_search_from_box .search_submit_box {
+    height: 50px;
+    margin: 5px 5px 0px 0px;
+    float: right;
+}
+
+.wpl_search_from_box .search_submit_box {
+    margin: 4px 5px 0px 0px;
+}
+
+.search-home {
+    border-radius: 0px;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    background: none;
+    border: none;
+}
+
+.wpl_search_widget_location_level_container::before, .wpl_search_field_container.wpl_search_field_property_types::before, .wpl_search_field_container.wpl_search_field_price::before, #sf7_tmin_bedrooms_chosen::before, #sf7_tmin_bathrooms_chosen::before, #sf19_tmin_bedrooms_chosen::before, #sf19_tmin_bathrooms_chosen::before {
+    margin-top: -12px !important;
+}
+
+.wpl_search_from_box .wpl_search_from_box_top .wpl_search_field_container:not(.radiussearch) {
+    margin: -6px 0px 0px 10px;
+}
+
+.wpl_search_from_box .search_submit_box:after {
+    line-height: 3.3em !important;
+}
+
+.banner-homepage {
+    margin-top: 100px !important;
+}
+
+.block-hp-featured{
+    padding-top: 80px;
+}
+
+.block-hp #wpl_searchwidget_7 input {
+    height: 38px;
+    border-right: 2px solid #e2e2e2 !important;
+}
+
+.block-hp .wpl_search_from_box .wpl_search_field_container .chosen-container .chosen-single,
+.block-hp input.wpl_search_widget_location_textsearch{
+    background: #fff !important;
+    border:2px solid #e2e2e2 !important;
+    border-radius:5px;
+    height: 38px;
+}
+
+.search-home input.wpl_search_widget_location_textsearch{
+    color: #fff !important;
+    font-size:18px !important;
+    width: 868px;
+    margin-left: 40px;
+    margin-top: 0px !important;
+    height: 66px !important;
+}
+
+.wpl_search_from_box .wpl_search_field_container .chosen-container .chosen-single>span {
+    line-height: 2.6em;
+    font-family: var(--primary-font);
+}
+
+.wpl_search_from_box .wpl_search_field_container .chosen-container .chosen-single div b {
+    line-height: 43px !important;
+}
+
+.wpl_search_from_box .wpl_search_field_container, .wpl_search_from_box .wpl_dashboard_links_container {
+    margin: 0 -14px;
+}
+
+.wpl_search_from_box .wpl_search_field_container.wpl_search_field_container_41 {
+    margin-right: 34px;
+    width: 300px !important;
+}
+
+.block-hp input#wpl_search_widget_submit7.wpl_search_widget_submit {
+    border:none !important;
+    height: 50px;
+    margin-top: 0px !important;
+    border-left: 1px solid #f3f3f3 !important;
+    padding-left: 10px !important;
+    height: 80px;
+    margin-left: -14px;
+    margin-top: -17px !important;
+    width: 134px;
+}
+
+.banner-homepage {
+    height: 410px;
+    margin-top: 0px !important;
+    /*background:none !important;*/
+}
+
+.banner-messaging {
+    margin-top: -70px !important;
+}
+
+.banner-messaging h1{
+    font-size:65px !important;
+}
+
+.banner-messaging h1,
+.banner-messaging p{
+    width:1100px !important;
+}
+
+.banner-messaging .fusion-title.fusion-sep-none .title-heading-left,
+p.banner-messaging-paragraph{
+	width:1100px !important;
+    text-align:center !important;
+}
+
+p.banner-messaging-paragraph{
+    margin-top:-127px !important;
+}
+
+.wpl_search_widget_location_level_container::before, .wpl_search_field_container.wpl_search_field_property_types::before, .wpl_search_field_container.wpl_search_field_price::before, #sf7_tmin_bedrooms_chosen::before, #sf7_tmin_bathrooms_chosen::before, #sf19_tmin_bedrooms_chosen::before, #sf19_tmin_bathrooms_chosen::before {
+    display:none !important;
+}
+
+.wpl_search_from_box .wpl_search_from_box_top {
+    border-radius: 5px !important;
+    background: url(/wp-content/uploads/sites/49/2022/07/ui_search-bg-gray.png);
+    height: 81px;
+    border:1px solid #fff !important;
+}
+
+.chosen-container {
+    position: absolute;
+    margin-top: 100px;
+}
+
+.block-hp #wpl_searchwidget_7 input {
+    border: none !important;
+}
+
+.block-hp .wpl_search_from_box .wpl_search_field_container .chosen-container .chosen-single, .block-hp input.wpl_search_widget_location_textsearch {
+    background: none !important;
+    color: #fff;
+}
+
+.wpl_search_from_box .wpl_search_field_container .chosen-container .chosen-single div b:before {
+    content: url(/wp-content/uploads/sites/49/2022/07/icon_selector-w.png) !important;
+}
+
+input.wpl_search_widget_location_textsearch{
+   background:none !important;
+}
+
+.wpl_search_from_box .wpl_search_from_box_top:after {
+    content: url(/wp-content/uploads/sites/49/2022/07/icon_magnifying-glass-w.png) !important;
+    margin: 17px !important;
+    position: absolute;
+}
+
+.prop_grid {
+    margin-top: -20px;
+}

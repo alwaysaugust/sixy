@@ -1,0 +1,35 @@
+/**HEADER3**/
+
+.fusion-tb-header{
+    height:120px;
+    background-color:#313a41 !important;
+}
+
+.fusion-tb-header .primary-header{
+    border-bottom:1px solid #4d555b !important;
+    height: 65px;
+}
+
+.block-login {
+    border-left: 1px solid #4d555b;
+}
+
+.menu-text,
+.header-contact a{
+    color:#fff;
+}
+
+.banner-homepage{
+    margin-top:-4px !important;
+}
+
+.header-contact-wrapper {
+    float: right;
+    position: absolute;
+    right: 315px;
+    top: 62px;
+}
+
+.header-address{
+    display:inline-block;
+}

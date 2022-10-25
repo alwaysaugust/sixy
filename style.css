@@ -1,0 +1,84 @@
+/*
+Theme Name: Sixy Child
+Description: Child theme for Sixy
+Author: alwaysaugust.co
+Template: Avada
+Theme URI: https://tosell.ca
+Version: 1.0.0
+*/
+
+/*--------------------------------*/
+
+
+
+
+/*--------------------------------*/
+
+/*@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap');*/
+
+.fusion-logo{
+    margin-top:27px !important;
+}
+
+.blog_post_total_Count {
+    color: rgba(25,25,25,1);
+    font-family: 'Inter', sans-serif;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    font-style: normal;
+    letter-spacing: -0.14px;
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+a.fusion-button.menu-button-login, a.fusion-button.menu-button-register {
+    font-size: 14px;
+    border: 1px solid #15161a;
+    color: #15161a;
+    margin-top: 10px;
+    padding-right: 22px;
+    padding-left: 22px;
+    margin-left: 3px;
+    margin-right: 3px;
+    display: block !important;
+}
+        
+
+input[type=text], select {
+    font-size: 14px;
+}
+
+.wpl_search_widget_location_level_container::before, .wpl_search_field_container.wpl_search_field_property_types::before, .wpl_search_field_container.wpl_search_field_price::before, #sf7_tmin_bedrooms_chosen::before, #sf7_tmin_bathrooms_chosen::before, #sf19_tmin_bedrooms_chosen::before, #sf19_tmin_bathrooms_chosen::before  {
+    letter-spacing: 0.1px !important;
+}
+
+    /*form#wpl_login_form {*/
+    /*margin: 0 !important;*/
+    /*padding: 25px !important;*/
+    /*width: 133% !important;*/
+    /*height: auto !important;*/
+    /*border-radius: 5px !important;*/
+    /*}*/
+    /*.fusion-body .fusion-flex-container.fusion-builder-row-3 {*/
+    /*    padding-top: 50px !important;*/
+    /*    padding-bottom: 90px !important;*/
+    /*    padding-right: 0px !important;*/
+    /*}*/
+    /*button#wpl_login_submit {*/
+    /*    width: 42em !important;*/
+    /*    padding: 5px !important;*/
+    /*}*/
+    /*.wpl-login-form-row.custom-style {*/
+    /*    padding: 20px 0 !important;*/
+    /*}*/
+    /*.wpl_membership_addon_label {*/
+    /*    width: 109.3% !important;*/
+    /*    right: 25px !important;*/
+    /*    position: relative !important;*/
+    /*    padding: 0px 0px 18px 39px!important;*/
+    /*}*/
+    /*.fusion-flex-container .fusion-row .fusion-flex-column .fusion-column-wrapper:not(.fusion-flex-column-wrapper-legacy).fusion-content-layout-row {*/
+    /*    display: flex !important;*/
+    /*    justify-content: center !important;*/
+    /*}*/
